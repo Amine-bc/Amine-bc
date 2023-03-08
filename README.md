@@ -1,6 +1,6 @@
-<h3 align="center">A passionate Computer science engineering student from Algeria.</h3>
+<h3 align="center"> 💻 A passionate Computer science engineering student from Algeria 🇩🇿 </h3>
 
-- 🔭 I’m currently working on **Emulating a CPU**
+- 🔭 I’m currently working on **A CPU Emulator**
 
 - 🌱 I’m currently learning **React & Express**
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Algorithms & DSA**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mohammed-el-amine-bouchoucha-939640194/**
+- 📫 How to reach me **lm_bouchoucha@esi.dz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
