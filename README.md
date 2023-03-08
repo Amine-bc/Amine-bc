@@ -1,4 +1,4 @@
-<h3 align="center"> 💻 A passionate Computer science engineering student from Algeria 🇩🇿 </h3>
+<h3 align="center"> A passionate Computer science engineering student from Algeria 💻 🇩🇿 </h3>
 
 - 🔭 I’m currently working on **A CPU Emulator**
 
