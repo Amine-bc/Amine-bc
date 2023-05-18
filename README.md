@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **IOT, Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amine-bc](https://github.com/Amine-bc)
+- 👨‍💻 All my projects are available at [https://github.com/Amine-bc](https://github.com/Amine-bc)
 
 - 💬 Ask me about **Algorithms & DSA**
 
