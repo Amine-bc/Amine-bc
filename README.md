@@ -1,8 +1,6 @@
 <h3 align="center"> A passionate Computer science engineering student from Algeria 💻 🇩🇿 </h3>
 
-- 🔭 I’m currently working on **A CPU Emulator**
-
-- 🌱 I’m currently learning **React & Express**
+- 🔭 I’m currently **Minimizing the cost function X)**
 
 - 🤝 I’m looking for help with **IOT, Cybersecurity**
 
@@ -21,10 +19,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed el amine bouchoucha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed el amine bouchoucha" height="30" width="40" /></a>
-<a href="https://kaggle.com/amiinebc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amiinebc" height="30" width="40" /></a>
-<a href="https://medium.com/@amiinebc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amiinebc" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amine_bc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amine_bc" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aminebc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aminebc" height="30" width="40" /></a>
 <a href="https://discord.gg/Amine#1569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Amine#1569" height="30" width="40" /></a>
 </p>
 
