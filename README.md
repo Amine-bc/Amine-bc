@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently **Minimizing the cost function X)**
 
-- 🤝 I’m looking for help with **Ai and deep learning**
+- 🤝 I’m looking for help with **AI and deep learning**
 
 - 👨‍💻 All my projects are available at [https://github.com/Amine-bc](https://github.com/Amine-bc)
 
