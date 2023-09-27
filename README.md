@@ -6,7 +6,7 @@
 
 - 👨‍💻 All my projects are available at [https://github.com/Amine-bc](https://github.com/Amine-bc)
 
-- 💬 Ask me about **Algorithms & DSA**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **lm_bouchoucha@esi.dz**
 
