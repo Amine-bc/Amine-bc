@@ -1,6 +1,6 @@
 <h3 align="center"> A passionate Computer science engineering student from Algeria 💻 🇩🇿 </h3>
 
-- 🔭 I’m currently **Minimizing the cost function X)**
+- 🔭 I’m currently **Exploring my limits**
 
 - 🤝 I’m looking for help with **Forging solutions using technology**
 
