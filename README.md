@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently **Minimizing the cost function X)**
 
-- 🤝 I’m looking for help with **AI and deep learning**
+- 🤝 I’m looking for help with **Forging solutions using technology**
 
 - 👨‍💻 All my projects are available at [https://github.com/Amine-bc](https://github.com/Amine-bc)
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **ELFARI9 X)**
 
 - 📫 How to reach me **lm_bouchoucha@esi.dz**
 
