@@ -1,8 +1,8 @@
 <h3 align="center"> A passionate Computer science engineering student from Algeria 💻 🇩🇿 </h3>
 
-- 🔭 I’m currently **Exploring my limits**
+- 🔭 I’m currently **Learning the science of designing and building Software**
 
-- 🤝 I’m looking for help with **Forging solutions using technology**
+- 🤝 I’m looking for collaboration with **Building any Software**
 
 - 👨‍💻 All my projects are available at [https://github.com/Amine-bc](https://github.com/Amine-bc)
 
