@@ -4,7 +4,7 @@
 
 - 🤝 I’m looking for collaboration with **Building any piece of Software.**
 
-- 📫 How to reach me **lm_bouchoucha@esi.dz**
+- 📫 Lately I'm reacheable only by email: **lm_bouchoucha@esi.dz**
 
 <p align="center">
     <a href="https://github.com/Brivan-26/github-readme-streak-stats">
@@ -12,9 +12,6 @@
     </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed el amine bouchoucha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed el amine bouchoucha" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
