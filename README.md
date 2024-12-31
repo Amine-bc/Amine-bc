@@ -1,8 +1,8 @@
-<h3 align="center"> A passionate Computer science engineering student from Algeria 💻 🇩🇿 </h3>
+<h3 align="center"> A passionate Software engineering student 💻 </h3>
 
-- 🔭 I’m currently **Learning the science of designing and building Software**
+- 🔭 I’m currently **Learning the science of designing and building Software.**
 
-- 🤝 I’m looking for collaboration with **Building any piece of Software**
+- 🤝 I’m looking for collaboration with **Building any piece of Software.**
 
 - 📫 How to reach me **lm_bouchoucha@esi.dz**
 
