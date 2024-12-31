@@ -2,11 +2,7 @@
 
 - 🔭 I’m currently **Learning the science of designing and building Software**
 
-- 🤝 I’m looking for collaboration with **Building any Software**
-
-- 👨‍💻 All my projects are available at [https://github.com/Amine-bc](https://github.com/Amine-bc)
-
-- 💬 Ask me about **ELFARI9 X)**
+- 🤝 I’m looking for collaboration with **Building any piece of Software**
 
 - 📫 How to reach me **lm_bouchoucha@esi.dz**
 
