@@ -6,12 +6,6 @@
 
 - 📫 Lately I'm reacheable only by email: **lm_bouchoucha@esi.dz**
 
-<p align="center">
-    <a href="https://github.com/Brivan-26/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Amine-bc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
