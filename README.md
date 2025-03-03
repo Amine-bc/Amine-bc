@@ -1,9 +1,7 @@
-<h3 align="center"> A passionate Software engineering student 💻 </h3>
+<h3 align="center">Software engineering student 💻 </h3>
 
 - 🔭 I’m currently **Learning the science of designing and building Software.**
-
-- 🤝 I’m looking for collaboration with **Building any piece of Software.**
-
+  
 - 📫 Lately I'm reacheable only by email: **lm_bouchoucha@esi.dz**
 
 </p>
